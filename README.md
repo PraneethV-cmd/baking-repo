@@ -1,0 +1,2 @@
+# baking-repo
+Learning haskell 
